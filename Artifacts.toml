@@ -1,0 +1,97 @@
+[[Libuuid]]
+arch = "x86_64"
+git-tree-sha1 = "2e6c4727445f17552ecd3e012e85b2338ae3afc4"
+libc = "glibc"
+os = "linux"
+
+    [[Libuuid.download]]
+    sha256 = "1c4d2ae84568bffccbfa25f481b9755deb5f9ea3a12db8cb1983406bc5549591"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.x86_64-linux-gnu.tar.gz"
+[[Libuuid]]
+arch = "x86_64"
+git-tree-sha1 = "3073b00c4a1e6f5147df5d5b341fafcede57f314"
+os = "macos"
+
+    [[Libuuid.download]]
+    sha256 = "ba8fdaefc6c12cb06622280b1a0db79210bd6d4593f0f90a7d8bdecf04300f78"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.x86_64-apple-darwin14.tar.gz"
+[[Libuuid]]
+arch = "aarch64"
+git-tree-sha1 = "a9a8599d79198bafbcae728846a8a44d2d6ed73d"
+libc = "glibc"
+os = "linux"
+
+    [[Libuuid.download]]
+    sha256 = "c6b5c201b4624dcb3c70a65a0aeb2790cda46ad3bf8f32c8addb13821aae8edf"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.aarch64-linux-gnu.tar.gz"
+[[Libuuid]]
+arch = "i686"
+git-tree-sha1 = "112477ff0377fc435b82bf54e1d8d868784cd337"
+libc = "musl"
+os = "linux"
+
+    [[Libuuid.download]]
+    sha256 = "b32bbd68cb17c962b3b724d778d03024d40c81b4f42320889234042e99b303b4"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.i686-linux-musl.tar.gz"
+[[Libuuid]]
+arch = "powerpc64le"
+git-tree-sha1 = "612eeec63474614c3c6aa847a09e280fb058f5d8"
+libc = "glibc"
+os = "linux"
+
+    [[Libuuid.download]]
+    sha256 = "94880e121095a4c3d1c32a3f74e32fcdd6f555636100332f84e402747ba32dcb"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.powerpc64le-linux-gnu.tar.gz"
+[[Libuuid]]
+arch = "x86_64"
+git-tree-sha1 = "f27569a2682fd70515a538863bffc6f706326129"
+os = "freebsd"
+
+    [[Libuuid.download]]
+    sha256 = "129beaf65232d4faa78cc80b4b4b3febf52c3ddda5ee993255c2c19a42477d21"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Libuuid]]
+arch = "armv7l"
+git-tree-sha1 = "27a8d44e5189e2d56451f14ea84e2deb48d9dd9f"
+libc = "musl"
+os = "linux"
+
+    [[Libuuid.download]]
+    sha256 = "16fe3e06fdd046b4b3027a6150c99de56239b695dd0e7d0bfb75fa5dc3e7fc70"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.arm-linux-musleabihf.tar.gz"
+[[Libuuid]]
+arch = "aarch64"
+git-tree-sha1 = "4d9161399f835f63332dd570bb9bd44b9adb2cdc"
+libc = "musl"
+os = "linux"
+
+    [[Libuuid.download]]
+    sha256 = "e779dcca901ae91e010735706eefe9f556acb6b12d0d47f76bbd006ff3c1a392"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.aarch64-linux-musl.tar.gz"
+[[Libuuid]]
+arch = "i686"
+git-tree-sha1 = "e474cb63fb80e8c8aa8ca6024ba84917806a3a95"
+libc = "glibc"
+os = "linux"
+
+    [[Libuuid.download]]
+    sha256 = "05cf0de7b7875e08df2c2bf3d6d4d418e6dbaa1fb513621c8f007f7c5f78fe56"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.i686-linux-gnu.tar.gz"
+[[Libuuid]]
+arch = "x86_64"
+git-tree-sha1 = "af867a660327ea1d805815a2dbbb9a625417ce2a"
+libc = "musl"
+os = "linux"
+
+    [[Libuuid.download]]
+    sha256 = "133ea325e00c1eaac9f98685c8c5f4881554f22f0e190e42a7542f46cd2321d0"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.x86_64-linux-musl.tar.gz"
+[[Libuuid]]
+arch = "armv7l"
+git-tree-sha1 = "048533d633f31b379db1768f3c2274aaf2695097"
+libc = "glibc"
+os = "linux"
+
+    [[Libuuid.download]]
+    sha256 = "b76eebc8cc42a277ebe0a8c075ffb7c7c4fa1c566929ec1b799de7ad7136d338"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.arm-linux-gnueabihf.tar.gz"

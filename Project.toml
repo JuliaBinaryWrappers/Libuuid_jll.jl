@@ -1,0 +1,10 @@
+name = "Libuuid_jll"
+uuid = "38a345b3-de98-5d2b-a5d3-14cd9215e700"
+version = "2.34.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
