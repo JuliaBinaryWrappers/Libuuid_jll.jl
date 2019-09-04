@@ -1,12 +1,4 @@
 [[Libuuid]]
-arch = "x86_64"
-git-tree-sha1 = "3073b00c4a1e6f5147df5d5b341fafcede57f314"
-os = "macos"
-
-    [[Libuuid.download]]
-    sha256 = "ba8fdaefc6c12cb06622280b1a0db79210bd6d4593f0f90a7d8bdecf04300f78"
-    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.x86_64-apple-darwin14.tar.gz"
-[[Libuuid]]
 arch = "aarch64"
 git-tree-sha1 = "309b557e40b9c102154df772125f4b133504687e"
 libc = "glibc"
