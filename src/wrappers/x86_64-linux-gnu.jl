@@ -28,9 +28,6 @@ function __init__()
 
     # Initialize PATH and LIBPATH environment variable listings
     global PATH_list, LIBPATH_list
-    append!.(Ref(PATH_list), (,))
-    append!.(Ref(LIBPATH_list), (,))
-
     global libuuid_path = abspath(joinpath(artifact"Libuuid", libuuid_splitpath...))
 
     # Manually `dlopen()` this right now so that future invocations

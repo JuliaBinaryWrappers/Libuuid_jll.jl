@@ -8,90 +8,90 @@ os = "macos"
     url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+0/Libuuid.v2.34.0.x86_64-apple-darwin14.tar.gz"
 [[Libuuid]]
 arch = "aarch64"
-git-tree-sha1 = "759f1e1317e735d76f8a087db70851f6be468d61"
+git-tree-sha1 = "309b557e40b9c102154df772125f4b133504687e"
 libc = "glibc"
 os = "linux"
 
     [[Libuuid.download]]
-    sha256 = "f49ddc90c4934be5fc58762d156d41d4076d947b7d4acdd4e3dd5030731596a6"
-    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+1/Libuuid.v2.34.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "feba4df8c0f85d0121b64aac7db178b5843eb7c331583ad08edd4e1771f15585"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+2/Libuuid.v2.34.0.aarch64-linux-gnu.tar.gz"
 [[Libuuid]]
 arch = "aarch64"
-git-tree-sha1 = "6cd37cfb631203c54f6f1547a30adfaa107cc1d0"
+git-tree-sha1 = "fe7416ea53a77788073195ce6d1b3b2f80d9ade3"
 libc = "musl"
 os = "linux"
 
     [[Libuuid.download]]
-    sha256 = "b9f6711ea6c81ab846b126f6c76312dcacc668ae161fcc663cc72827f84efb45"
-    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+1/Libuuid.v2.34.0.aarch64-linux-musl.tar.gz"
+    sha256 = "a318b33ae57e0ac24205c184357420b557062c0bf2c95830e31d626e85fc73eb"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+2/Libuuid.v2.34.0.aarch64-linux-musl.tar.gz"
 [[Libuuid]]
 arch = "x86_64"
-git-tree-sha1 = "3455df99e1e75466f36141b7ac010a6cb3edd54b"
+git-tree-sha1 = "d751f7dde07fc6de4505723480a60b4023ec642d"
 libc = "glibc"
 os = "linux"
 
     [[Libuuid.download]]
-    sha256 = "d11f90306957e6482e271daacb650585ffde60f667d391e49ff6bad25e7205b2"
-    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+1/Libuuid.v2.34.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "85616436bb22e7112543748f26b5444299cf6213a1ea7a0d326e9b49d8ee91ea"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+2/Libuuid.v2.34.0.x86_64-linux-gnu.tar.gz"
 [[Libuuid]]
 arch = "i686"
-git-tree-sha1 = "d6941e33fcb7e3e9095591738ae0faa97ecab7be"
+git-tree-sha1 = "3c83053770fbbdcafa9370b3b329e64aa6399863"
 libc = "glibc"
 os = "linux"
 
     [[Libuuid.download]]
-    sha256 = "1c77d7b689912f1a41813f775841e04bdc7caa04d07611a52e5061118646b3cd"
-    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+1/Libuuid.v2.34.0.i686-linux-gnu.tar.gz"
+    sha256 = "fd87dc80bc8dc5fca180822e00322428538fdef90e0cb005b6b6cc703a62e1b3"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+2/Libuuid.v2.34.0.i686-linux-gnu.tar.gz"
 [[Libuuid]]
 arch = "x86_64"
-git-tree-sha1 = "372573ef451b4669982f73276dfcd08b8504cb2f"
+git-tree-sha1 = "2f36c45cea2ba45756b17a33dda842dd10872f3d"
 libc = "musl"
 os = "linux"
 
     [[Libuuid.download]]
-    sha256 = "72a24e700bedcfc80780ae3551090a51f43d1157e6200e74982d8711d59b2b39"
-    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+1/Libuuid.v2.34.0.x86_64-linux-musl.tar.gz"
+    sha256 = "75218cb04f2054dda99e538f56f442223a941a2f33652e2ed8fa90c7159a0374"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+2/Libuuid.v2.34.0.x86_64-linux-musl.tar.gz"
 [[Libuuid]]
 arch = "powerpc64le"
-git-tree-sha1 = "4bdb1f81e60dde26dcca4ee5d0dec1a20cf3a1ba"
+git-tree-sha1 = "51dbf008f6d5c06431094b456886fec9aaefb164"
 libc = "glibc"
 os = "linux"
 
     [[Libuuid.download]]
-    sha256 = "646ebc0961c7f0f844c65cffa4a0fe137193253bdf426d92ce46164880675948"
-    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+1/Libuuid.v2.34.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "bef663d6021461100a5725d265ce9fd75cd041b7fce7b4ce9f824e1aa3938685"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+2/Libuuid.v2.34.0.powerpc64le-linux-gnu.tar.gz"
 [[Libuuid]]
 arch = "i686"
-git-tree-sha1 = "324776004dffcfdec139c763e9acf058b4399c9c"
+git-tree-sha1 = "d7c91b59cdb6ccdb361910d970eff9ce2f7293d3"
 libc = "musl"
 os = "linux"
 
     [[Libuuid.download]]
-    sha256 = "0c718dfcc740230c6ccf6e2415fb82f7f6499c8ef8ede045f575a309175b9a36"
-    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+1/Libuuid.v2.34.0.i686-linux-musl.tar.gz"
+    sha256 = "da3f1d0aff76f1cdbd8b5ae5d8fcfe57d849bcdc334f15e4d1bff59e7b8e7b65"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+2/Libuuid.v2.34.0.i686-linux-musl.tar.gz"
 [[Libuuid]]
 arch = "x86_64"
-git-tree-sha1 = "2f52b846e4fc575620c4fd1f14bf49e33eec1d71"
+git-tree-sha1 = "872c0583c94738720a32d4e8d9cc3df4cd9bb902"
 os = "freebsd"
 
     [[Libuuid.download]]
-    sha256 = "1e5a1d7d84bcadc52b2a143a7e9604bcef2c8d2fe19f23e5b336ebb056563fd9"
-    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+1/Libuuid.v2.34.0.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "fe92071b1133bc0ffdae05bd9a4fabd768443daf8d84b8f6b41e460155a921bd"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+2/Libuuid.v2.34.0.x86_64-unknown-freebsd11.1.tar.gz"
 [[Libuuid]]
 arch = "armv7l"
-git-tree-sha1 = "901f5269f225620b53560acabd16ae46a652ecf1"
+git-tree-sha1 = "927a7d13d8d03ae84554e7b1052176c7d1162a1d"
 libc = "glibc"
 os = "linux"
 
     [[Libuuid.download]]
-    sha256 = "1598827d7c08db5a50720ba4cb0a13c0965e48acf0a28d6162f9ffd620b4eb09"
-    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+1/Libuuid.v2.34.0.arm-linux-gnueabihf.tar.gz"
+    sha256 = "2dcdefaed95902935403d00d3c5a2362e6767d26ec89f0286524d78c5ae83a10"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+2/Libuuid.v2.34.0.arm-linux-gnueabihf.tar.gz"
 [[Libuuid]]
 arch = "armv7l"
-git-tree-sha1 = "d841ab0f6da9b0bbf83a52482f3a0c0444d22770"
+git-tree-sha1 = "f6a5522bce69b933b0ad0d9072837a09add9e244"
 libc = "musl"
 os = "linux"
 
     [[Libuuid.download]]
-    sha256 = "56238e483c531057b42860933a39e5961576cf147dfa0c3f09c854d47cc35fd3"
-    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+1/Libuuid.v2.34.0.arm-linux-musleabihf.tar.gz"
+    sha256 = "7ad3d09cc87b57bb1e6df0f0d7e2d55f76613130b2d66fe1c01e96816f436a69"
+    url = "https://github.com/JuliaBinaryWrappers/Libuuid_jll.jl/releases/download/Libuuid-v2.34.0+2/Libuuid.v2.34.0.arm-linux-musleabihf.tar.gz"
